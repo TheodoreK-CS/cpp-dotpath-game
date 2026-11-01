@@ -24,3 +24,9 @@ An interactive 2D grid-based pathfinding puzzle game built in **C++** using the 
 2. Set the build configuration to **Release** (or **Debug**) and platform to **x64**.
 3. Ensure the project Working Directory is set to `$(SolutionDir)bin` (under *Project Properties -> Debugging -> Working Directory*).
 4. Build and run the solution (`F5`).
+
+<img width="1498" height="753" alt="image" src="https://github.com/user-attachments/assets/c7ccff1b-3711-4abb-b6e0-5da2639aea76" />
+
+<img width="1493" height="743" alt="image" src="https://github.com/user-attachments/assets/84714384-59d4-41cc-bcbe-ac7fb02c4756" />
+
+
