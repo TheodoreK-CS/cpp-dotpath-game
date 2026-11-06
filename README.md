@@ -1,4 +1,4 @@
-# 2D Grid Pathfinding & Puzzle Engine (C++)
+# 2D Grid Pathfinding & Puzzle Game (C++)
 
 An interactive 2D grid-based pathfinding puzzle game built in **C++** using the **Simple Graphics Library (SGG)** and **OpenGL/SDL2**. The objective is to navigate a continuous path across multi-stage grid topologies to cover all valid nodes without backtracking.
 
